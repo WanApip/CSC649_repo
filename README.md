@@ -1,1 +1,2 @@
-"# CSC649_repo" 
+CSC649 - Special Topic in Computer Science
+
